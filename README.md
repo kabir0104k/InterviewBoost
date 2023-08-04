@@ -4,13 +4,12 @@
 Boost Your Cybersecurity Interview Skills With InterviewBoost Hand-Picked Questions, Real-World Tasks, And Expert Advice
 ```
 
-```bash
 1. Research The Company
 
 > Preparing For A Cybersecurity Interview Research The Company Which You're Applying Before Your Interview.
 > Read About The Company's Objective, And Get Familiar With Their Products And Solutions.
 > This Might Help You Show Your Interest In The Company And Knowledge Of It During The Interview.
-```
+
 ```bash
 2. Show Your Business Knowledge
 
